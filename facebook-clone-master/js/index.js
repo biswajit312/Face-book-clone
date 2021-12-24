@@ -28,6 +28,7 @@ $(document).ready(function () {
     $(".nxtBtn").click(function () {
         owl.trigger("next.owl.carousel");
         // The comment has been updated
+        //Haha new comment
     });
 
 
