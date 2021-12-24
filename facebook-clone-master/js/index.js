@@ -27,7 +27,7 @@ $(document).ready(function () {
     // Go to the next item
     $(".nxtBtn").click(function () {
         owl.trigger("next.owl.carousel");
-        // Adding a Comment check this out
+        // Adding a Comment check out
     });
 
 
