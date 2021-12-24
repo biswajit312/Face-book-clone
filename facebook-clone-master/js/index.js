@@ -27,7 +27,7 @@ $(document).ready(function () {
     // Go to the next item
     $(".nxtBtn").click(function () {
         owl.trigger("next.owl.carousel");
-        // Change are you sure?
+        // Mandatory to change
     });
 
 
